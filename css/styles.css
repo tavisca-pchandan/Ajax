@@ -1,0 +1,104 @@
+body
+{
+    background-color: #B6B7BC;
+}
+.main-container
+{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.main-container .custom-page-header
+{
+    background-color: #4B6C9E;
+    margin: 10px 10px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.main-container .custom-page-header .custom-h1
+{
+    padding-top: 20px;
+    padding-left: 20px;
+    color: #fff;
+    font-variant: small-caps;
+    margin-bottom: 10px;
+}
+
+.main-container .custom-sub-header
+{
+   margin-left: 10px;
+   display: inline-block;
+   width: 98.5%;
+   background-color: #3A4F63;
+   margin-bottom: 0px;
+   padding-bottom: 0px;
+   margin-top: -1px;
+
+}
+
+    .main-container .custom-sub-header .white-label {
+        color:#7B8DB9;
+        margin-top: 10px;
+        margin-left: 10px;
+        font-variant: small-caps;
+    }
+.main-container .Rss-Container
+{
+    background-color: #fff;
+    margin-left: -5px;
+    margin-right: -5px;
+    margin-top: -5px;
+}
+
+.main-container .Rss-Container .news
+{
+    border: 2px solid #A4A4A4;
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+    margin: 10px;
+    border: none;
+}
+
+.main-container .Rss-Container .news .news-desc
+{
+    padding:0px;
+    margin:0px;
+}
+
+.underlined-text{
+    text-decoration: underline;
+    color: #0101DF;
+}
+
+.header-data{
+    padding-left: 10px;
+    padding-top: 20px;
+}
+
+.Header-Title-Font{
+    font-size: 18px;
+}
+
+.regular-text{
+    text-decoration : none;
+}
+
+.even-news-row{
+    background-color: #E1E0D4;
+}
+
+.odd-news-row{
+    background-color: #D1D0D4;
+}
+
+.omni-box{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.sub-header{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
